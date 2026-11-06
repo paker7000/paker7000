@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Carlos Francisco Paez 👋
+### Technical Support Leader | AI & Fintech Engineer
 
-<!--
-**paker7000/paker7000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently working on: **Agentic AI workflows, LLM API integrations, and Python automation**
+- 💼 Experience: 20+ years in Enterprise Technical Support Leadership (ex-VP at MSCI Inc.)
+- 🌱 Learning & Building: RAG applications, Anthropic Claude integration, and scikit-learn models
+- 📜 Certifications: Agentic AI Design Patterns, PSM I, AI Fundamentals, SailPoint
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/paezfrancisco) | f_paez@hotmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+**Languages & Frameworks:** Python, pandas, scikit-learn, REST APIs, SOAP, SQL Server  
+**AI & Cloud:** Prompt Engineering, LLMs (Claude, OpenAI API), Snowflake, SFTP, Git/GitHub  
+**Domain Expertise:** Fintech, SLA Management, L1-L3 Support, SaaS Operations, Agile/Scrum
